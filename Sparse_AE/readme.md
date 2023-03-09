@@ -6,7 +6,7 @@ Since it is not possible to design a neural network that has a flexible number o
 In other words, the loss function has a term that calculates the number of neurons that have been activated and provides a penalty that is directly proportional to that.
 This penalty, called the sparsity function, prevents the neural network from activating more neurons and serves as a regularizer.
 
-<src
+![sparse AE](https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-28_at_3.36.11_PM_wfLA8dB.png)
 
 While typical regularizers work by creating a penalty on the size of the weights at the nodes, sparsity regularizer works by creating a penalty on the number of nodes activated.
 This form of regularization allows the network to have nodes in hidden layers dedicated to find specific features in images during training and treating the regularization problem as a problem separate from the latent space problem.
