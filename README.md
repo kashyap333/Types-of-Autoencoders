@@ -1,2 +1,19 @@
 # Types-of-Autoencoders
-Various types of autoencoders
+# Various AutoEncoders in DeepLearning <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/fire.png"  width="25" height="25">
+
+Autoencoders are a type of neural network which generates an “n-layer” coding of the given input and attempts to reconstruct the input using the code generated. This Neural Network architecture is divided into the encoder structure, the decoder structure, and the latent space, also known as the “bottleneck”. To learn the data representations of the input, the network is trained using Unsupervised data. These compressed, data representations go through a decoding process wherein which the input is reconstructed. An autoencoder is a regression task that models an identity function.
+
+##### AutoEncoders are used to find the most important features
+
+Here you can find the following type of Autoencoder ( The marked ones are the ones which are completed, will upload the others soon..)
+- [x] Undercomplete autoencoders
+- [x] Sparse autoencoders
+- [ ] Denoising Autoencoder
+- [ ] Contractive Autoencoder
+- [ ] Variational Autoencoder
+- [ ] Stacked Denoising Autoencoders
+- [ ] Deep Autoencoders
+
+A Deeper explanation can be found inside the respective .ipynb or .py files
+
+
