@@ -1,5 +1,4 @@
-# Types-of-Autoencoders
-# Various AutoEncoders in DeepLearning <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/fire.png"  width="25" height="25">
+# Types-of-Autoencoders :fire: :zap:
 
 Autoencoders are a type of neural network which generates an “n-layer” coding of the given input and attempts to reconstruct the input using the code generated. This Neural Network architecture is divided into the encoder structure, the decoder structure, and the latent space, also known as the “bottleneck”. To learn the data representations of the input, the network is trained using Unsupervised data. These compressed, data representations go through a decoding process wherein which the input is reconstructed. An autoencoder is a regression task that models an identity function.
 
