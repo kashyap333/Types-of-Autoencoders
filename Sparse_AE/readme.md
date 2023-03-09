@@ -15,5 +15,8 @@ There are two primary ways in which the sparsity regularizer term can be incorpo
 1) L1 Loss which I have used here and
 2) KL-divergence
 
-Usage: 
-##### Run cmd line with python sparse_encoder.py --epochs=(custom_value) --add_sparse=(True/False) --reg_parameter=(custom_value) --batch_sz=(custom_value) --lr=(custom_value)
+#### Usage: Run cmd line with
+
+```cmd
+python sparse_encoder.py --epochs=(custom_value) --add_sparse=(True/False) --reg_parameter=(custom_value) --batch_sz=(custom_value) --lr=(custom_value)
+```
