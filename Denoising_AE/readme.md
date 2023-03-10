@@ -1,6 +1,6 @@
-## Denoising AutoEncoder
+# Denoising AutoEncoder
 
-Read more about Denoising autoencoders [here](https://iq.opengenus.org/types-of-autoencoder/)
+### Dataset
 
 The dataset can be found [here](https://www.kaggle.com/competitions/denoising-dirty-documents/data)
 
