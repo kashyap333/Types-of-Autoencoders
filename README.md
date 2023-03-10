@@ -7,7 +7,7 @@ Autoencoders are a type of neural network which generates an “n-layer” codin
 Here you can find the following type of Autoencoder ( The marked ones are the ones which are completed, will upload the others soon..)
 - [x] Undercomplete autoencoders
 - [x] Sparse autoencoders
-- [ ] Denoising Autoencoder
+- [x] Denoising Autoencoder
 - [ ] Contractive Autoencoder
 - [ ] Variational Autoencoder
 - [ ] Stacked Denoising Autoencoders
