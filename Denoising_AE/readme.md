@@ -8,6 +8,8 @@ The dataset can be found [here](https://www.kaggle.com/competitions/denoising-di
 
 ```bash
 autoencoders
+|--helper
+   |--helper.py
 |--Denoising_AE
    |--denoising-dirty-documents
    |--output
