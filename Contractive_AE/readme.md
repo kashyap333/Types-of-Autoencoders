@@ -32,5 +32,5 @@ python Contractive_AE.py --epochs=19 --batch_sz=8 --lr=1e-2 --lamda 1e-3
 
 - While the foundational method of penalising the loss is similar to Sparse functions. The difference is in penalizing loss in each layer and loss in the hidden layer. 
 - The way loss is calculated is unique, in that the Frobenius Norm of the Jacobian matrix of only the ***encoder*** is added with the mse loss.
-- The Jacobian matrix is partially differentiated from the hidden layer by the input layer. Where the differentiation is what is being done normally by every NN when
-we call the backward function.  
+- The Jacobian matrix is partially differentiated from the hidden layer by the input layer. Where the differentiation is backward function or back propagation. 
+- Therefore we first initilase gradients for the images, (which doesnot have any) and calculate backward from the hidden layer after mse loss, then calculate the Frobenius Norm, which is added to mse to create a loss for normal model backward or back propagation.
