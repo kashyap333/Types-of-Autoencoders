@@ -7,13 +7,11 @@ Autoencoders are a type of neural network which generates an “n-layer” codin
 > Read more about various autoencoders [here](https://iq.opengenus.org/types-of-autoencoder/)
 
 Here you can find the following type of Autoencoder ( The marked ones are the ones which are completed, will upload the others soon..)
-- [x] Undercomplete autoencoders
+- [x] Undercomplete autoencoders and Deep Autoencoders
 - [x] Sparse autoencoders
 - [x] Denoising Autoencoder
 - [ ] Contractive Autoencoder
 - [ ] Variational Autoencoder
-- [ ] Stacked Denoising Autoencoders
-- [ ] Deep Autoencoders
 
 A Deeper explanation can be found inside the respective .ipynb or .py files
 
