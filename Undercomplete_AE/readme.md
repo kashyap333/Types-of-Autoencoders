@@ -1,4 +1,4 @@
-# Deep Autoencoder and Undercomplete autoencoder
+# Convolutional Autoencoder, Deep Autoencoder and Undercomplete autoencoder
 
 - Undercomplete Autoencoder: Only a Single layer encoder and decoder with a bottleneck layer in between
 - Deep Autoencoder: Same as UAE but with multiple layers
