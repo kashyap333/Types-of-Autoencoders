@@ -10,7 +10,7 @@ Here you can find the following type of Autoencoder ( The marked ones are the on
 - [x] Convolutional Autoencoder, Undercomplete autoencoders and Deep Autoencoders
 - [x] Sparse autoencoders
 - [x] Denoising Autoencoder
-- [ ] Contractive Autoencoder
+- [x] Contractive Autoencoder
 - [ ] Variational Autoencoder
 
 A Deeper explanation can be found inside the respective .ipynb or .py files
