@@ -11,7 +11,7 @@ Here you can find the following type of Autoencoder ( The marked ones are the on
 - [x] Sparse autoencoders
 - [x] Denoising Autoencoder
 - [x] Contractive Autoencoder
-- [ ] Variational Autoencoder
+- [x] Variational Autoencoder
 
 A Deeper explanation can be found inside the respective .ipynb or .py files
 
